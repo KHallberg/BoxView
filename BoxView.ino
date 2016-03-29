@@ -42,7 +42,7 @@ int btn(){
     Keyboard.release(space);
     delay(30000);
     counter++;
-    // type out a message
+
     money.write(150);
     delay(500);
     money.write(0);
